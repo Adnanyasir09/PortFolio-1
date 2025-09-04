@@ -29,7 +29,7 @@ const Home = () => (
 <div className="flex flex-wrap justify-center md:justify-start gap-5 mb-8">
   {/* Resume Button */}
   <a
-    href="https://drive.google.com/file/d/1SXJB27w2-9Mbo-ilF2uzgiv5Kd4XpGeF/view?usp=sharing"
+    href="https://drive.google.com/file/d/1X12rk4E74a-WbrSjAJSZ2mR8A6cOdW6O/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
     className="bg-white text-indigo-700 px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-gray-200 transition"
