@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 const Home = () => (
   <section
     id="home"
-    className="relative flex flex-col items-center justify-center min-h-screen text-white px-6"
+    className="relative flex flex-col items-center justify-center min-h-screen text-white px-6 pt-20"
     style={{
       background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
     }}
