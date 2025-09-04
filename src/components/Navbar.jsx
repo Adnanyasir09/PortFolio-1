@@ -101,7 +101,7 @@ const Navbar = () => {
       {/* Mobile Menu */}
       <div
         className={`md:hidden bg-gray-800 transition-max-height duration-300 ease-in-out overflow-hidden ${
-          isOpen ? "max-h-60" : "max-h-0"
+          isOpen ? "max-h-screen" : "max-h-0"
         }`}
       >
         <div className="px-6 pt-4 pb-6 space-y-2">
